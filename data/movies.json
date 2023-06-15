@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movieName": "True Grit",
+      "director": "Joel and Ethan Coen",
+      "rating": "9.6"
+    },
+    {
+      "id": 4,
+      "movieName": "E.T",
+      "director": "Steven Spielberg",
+      "rating": "9.8"
+    },
+    {
+      "movieName": "Apple 2",
+      "director": "a mobile phoe",
+      "rating": "3",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "movieName": "Gravity",
+      "director": "Alfonso Cuarón",
+      "rating": "9.6"
+    },
+    {
+      "id": 7,
+      "movieName": "Shawshank Redemption",
+      "director": "Franklin",
+      "rating": "9.9"
+    },
+    {
+      "id": 8,
+      "movieName": "Sherlock Holmes",
+      "director": "Franklin",
+      "rating": "10"
+    }
+  ]
+}
